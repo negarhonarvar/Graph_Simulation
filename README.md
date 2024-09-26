@@ -1,4 +1,4 @@
-# Graph_Simulation
+# Graph Simulation
 
 <table style="width:100%">
  <tr>
